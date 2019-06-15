@@ -4,16 +4,16 @@
 
 ### Day 1
 
-* 09:30 - 10:00 - Welcome Talk
+* 09:30 - 10:15 - Welcome Talk
 
-* 10:00 - 10:30 - [Clean Code](https://www.theodinproject.com/courses/web-development-101/lessons/clean-code)
+* 10:15 - 10:45 - [Clean Code](https://www.theodinproject.com/courses/web-development-101/lessons/clean-code)
 
-* 10:30 - 12:30 - Research Topic - Dom Manipulation
+* 10:45 - 12:45 - Research Topic - Dom Manipulation
   * [Resources](https://www.theodinproject.com/courses/web-development-101/lessons/dom-manipulation)
 
-* 12:30 - 02:30 - Break 
+* 12:45 - 01:45 - Break 
 
-* 02:30 - 05:00 - Project 1
+* 01:45 - 05:00 - Project 1
 
 
 ### Day 2
