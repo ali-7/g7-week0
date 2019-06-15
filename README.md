@@ -18,13 +18,16 @@
 
 ### Day 2
 
-* 9:00 - 05:00 - Project 2
+* 09:00 - 12:00 - Project 2
+* 12:00 - 01:00 - Break
+* 01:00 - 01:30 - [Introduction to Pair Programming](https://www.theodinproject.com/courses/web-development-101/lessons/introduction-to-pair-programming)
+* 01:30 - 05:00 - Project 3 
 
 ### Day 3
 
-* 9:00 - 09:30 - [Introduction to Pair Programming](https://www.theodinproject.com/courses/web-development-101/lessons/introduction-to-pair-programming)
-* 9:30 - 05:00 - Project 3
+
+* 9:00 - 05:00 - Project 3
 
 ### Day 4
 
-- 9:00 - 12:00 Test
+- 9:00 - 12:00 - Test
