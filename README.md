@@ -2,7 +2,7 @@
 
 ## The Schedule
 
-### Day 1
+### Day 1 
 
 * 09:30 - 10:15 - Welcome Talk
 
@@ -13,7 +13,7 @@
 
 * 12:45 - 01:45 - Break 
 
-* 01:45 - 05:00 - Project 1
+* 01:45 - 05:00 - [Project 1](https://github.com/ali-7/w0-project1)
 
 
 ### Day 2
