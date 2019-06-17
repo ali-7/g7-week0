@@ -18,7 +18,7 @@
 
 ### Day 2
 
-* 09:00 - 12:00 - Project 2
+* 09:00 - 12:00 - [Project 2](https://github.com/ali-7/w0-project2)
 * 12:00 - 01:00 - Break
 * 01:00 - 01:30 - [Introduction to Pair Programming](https://www.theodinproject.com/courses/web-development-101/lessons/introduction-to-pair-programming)
 * 01:30 - 05:00 - Project 3 
