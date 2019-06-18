@@ -26,7 +26,9 @@
 ### Day 3
 
 
-* 9:00 - 05:00 - [Project 3](https://github.com/ali-7/g7-week0/blob/master/project3.md) 
+* 9:00 - 12:00 - [Project 3](https://github.com/ali-7/g7-week0/blob/master/project3.md)
+* 12:00 - 01:00 - Break 
+* 01:00 - 05:00 - [Project 4](https://github.com/ali-7/w0-project4)
 
 ### Day 4
 
